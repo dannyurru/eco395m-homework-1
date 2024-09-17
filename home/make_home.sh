@@ -1,7 +1,7 @@
 #!/bin/bash
 
-mkdir Home
-cd Home
+mkdir home
+cd home
 mkdir "laundry room" "main bath" "half bath" "master bedroom" "coats closet" "home garage" "office space"
 cd "laundry room"
 touch washer.txt dryer.txt
